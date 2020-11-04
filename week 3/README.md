@@ -190,12 +190,7 @@ So that would be the **upper left corner**.
 
 
 ---
-3- What’s new for you ?
--
-
-
----
-4- Resources ? 
+# Resources ? 
 -
 - [https://medium.com/@erika.dauria/accuracy-recall-precision-80a5b6cbd28d](https://medium.com/@erika.dauria/accuracy-recall-precision-80a5b6cbd28d)
 - [https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
