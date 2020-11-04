@@ -108,14 +108,8 @@
 
 
 ---
-2- What’s new for you ?
--
-- Naive Bayes Classifiers
-- Random Forests (an ensemble of trees)
-- Gradient Boosted Decision Trees.
 
----
-3- Resources ? 
+# Resources ? 
 -
 - [https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-filter-methods-f248e0436ce5](https://heartbeat.fritz.ai/hands-on-with-feature-selection-techniques-filter-methods-f248e0436ce5)
 - [https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931](https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931)
