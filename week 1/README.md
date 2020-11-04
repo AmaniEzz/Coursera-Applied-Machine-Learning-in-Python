@@ -100,17 +100,9 @@ fit a classifier on a training dataset.
 
 - **Choose:**
     - How to search for the ***settings/parameters*** that give the best classifier for this evaluation crietrion.
-
-
 ---
-3- What’s new for you ?
--
 
-- `pandas.plotting.scatter_matrix(frame, alpha=0.5, figsize=None, ax=None, grid=False, diagonal='hist', marker='.', density_kwds=None, hist_kwds=None, range_padding=0.05, **kwargs)`
-- Deep understanding of bias
-
-
-4- Resources ? 
+# Resources ? 
 -
 - [https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.plotting.scatter_matrix.html](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.plotting.scatter_matrix.html)
 - [http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/)
