@@ -342,18 +342,9 @@ Gamma controls how tightly the decision boundaries end up surrounding points in 
 <img src="https://www.researchgate.net/profile/Nikolaos_Chlis/publication/266617511/figure/fig11/AS:295705362092036@1447513060277/Leave-One-Out-Cross-Validation.png" width="500">
 
 
----
-
-3- What’s new for you ?
--
-- **Kernalized SVM**
-- **RBF**
-- **Linear models**
-- **Decision Trees**
-
 
 ---
-4- Resources ? 
+# Resources ? 
 - 
 - [https://stackoverflow.com/questions/35076586/when-should-one-use-linearsvc-or-svc](https://stackoverflow.com/questions/35076586/when-should-one-use-linearsvc-or-svc)
 - [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf]
